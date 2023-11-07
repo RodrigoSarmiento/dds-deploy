@@ -8,10 +8,10 @@ executors:
     docker:
       - image: 'cimg/openjdk:17.0'
 jobs:
-  say-hello:
-       docker:
+ say-hello:
+    docker:
       - image: cimg/base:stable
-       steps:
+   steps:
       - checkout
       - run:
           name: "Say hello"
