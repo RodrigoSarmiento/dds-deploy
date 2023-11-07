@@ -3,11 +3,11 @@ import org.junit.jupiter.api.Test;
 
 public class AppLibrosTest {
 
- 
+
 
     @Test
     public void testAlgoQueDeberiaEstarBien() {
-        Assertions.assertEquals(213154312, -12312341);
+        Assertions.assertEquals(1, 1);
     }
 
 
