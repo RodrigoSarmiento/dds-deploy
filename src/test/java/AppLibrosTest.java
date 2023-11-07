@@ -1,9 +1,9 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public clasdasdadss AppLibrosTest {
+public class AppLibrosTest {
 
- papitaaaasknpwrpoafrpo
+ 
 
     @Test
     public void testAlgoQueDeberiaEstarBien() {
